@@ -1,3 +1,16 @@
+node-spdx-correct (3.1.1-2) unstable; urgency=medium
+
+  * Team upload
+  * Bump debhelper compatibility level to 13
+  * Modernize debian/watch
+  * Fix GitHub tags regex
+  * Use dh-sequence-nodejs
+  * Update standards version to 4.6.0, no changes needed.
+  * Fix filenamemangle
+  * Drop dependency to nodejs
+
+ -- Yadd <yadd@debian.org>  Tue, 30 Nov 2021 14:08:54 +0100
+
 node-spdx-correct (3.1.1-1) unstable; urgency=medium
 
   * Team upload
